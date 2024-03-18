@@ -8,7 +8,7 @@
 
 <body>
 
-	<h1> Hello WORLD!!! <h1>
+	<h1> CHECKING <h1>
 
 		<p> Lorem ipsum. I don't know what to write. Okay poo madiee. Dugangan ko na po. Fix issue #1</p>
 
